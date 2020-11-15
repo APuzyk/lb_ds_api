@@ -1,0 +1,5 @@
+*.p
+build/*
+dist/*
+*.egg-info
+venv/*
